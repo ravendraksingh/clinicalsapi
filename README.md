@@ -1,0 +1,2 @@
+# clinicalsapi
+Clinicals RESTful API
